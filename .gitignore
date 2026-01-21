@@ -1,0 +1,6 @@
+dataset_images/ 
+*.jpg 
+*.jpeg 
+*.png 
+*.gif 
+*.bmp 
