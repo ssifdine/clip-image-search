@@ -4,3 +4,6 @@ dataset_images/
 *.png 
 *.gif 
 *.bmp 
+
+# Autoriser certaines images
+!pictures/**
